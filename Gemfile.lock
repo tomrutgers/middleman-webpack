@@ -100,9 +100,6 @@ GEM
     sassc (2.2.1)
       ffi (~> 1.9)
     servolux (0.13.0)
-    slim (4.0.1)
-      temple (>= 0.7.6, < 0.9)
-      tilt (>= 2.0.6, < 2.1)
     temple (0.8.2)
     thor (1.0.1)
     thread_safe (0.3.6)
@@ -121,7 +118,6 @@ DEPENDENCIES
   middleman-autoprefixer
   rake
   rubocop
-  slim
 
 BUNDLED WITH
    2.0.1

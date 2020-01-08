@@ -4,17 +4,17 @@ linters = [
   {
     name: 'ESLint',
     language: 'JavaScript',
-    command: 'node_modules/.bin/eslint source/**/*.js'
+    command: 'node_modules/.bin/eslint source/**/*.js --fix'
   },
   {
     name: 'stylelint',
     language: 'CSS/SCSS',
-    command: 'stylelint **/*.scss'
+    command: 'stylelint **/*.scss --fix'
   },
   {
     name: 'RuboCop',
     language: 'Ruby',
-    command: 'rubocop'
+    command: 'rubocop -a'
   }
 ]
 

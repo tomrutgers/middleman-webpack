@@ -27,5 +27,7 @@
     "start": "NODE_ENV=development ./node_modules/webpack/bin/webpack.js --watch -d --color",
     "build": "NODE_ENV=production ./node_modules/webpack/bin/webpack.js --bail -p"
   },
-  "dependencies": {}
+  "dependencies": {
+    "terser-webpack-plugin": "^2.3.1"
+  }
 }
