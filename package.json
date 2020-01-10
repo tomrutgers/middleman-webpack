@@ -11,7 +11,7 @@
     "babel-loader": "^8.0.6",
     "css-loader": "^1.0.1",
     "eslint": "^5.16.0",
-    "eslint-config-airbnb-base": "^13.2.0",
+    "eslint-config-airbnb-base": "^14.0.0",
     "eslint-plugin-import": "^2.19.1",
     "node-sass": "^4.13.0",
     "postcss-loader": "^3.0.0",
