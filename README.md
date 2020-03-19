@@ -22,3 +22,9 @@ yarn install
 middleman server
 middleman build --verbose
 ```
+
+### Cucumber tests
+
+```
+bundle exec cucumber
+```
