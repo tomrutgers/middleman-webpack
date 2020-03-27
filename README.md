@@ -26,5 +26,6 @@ middleman build --verbose
 ### Cucumber tests
 
 ```
+brew tap homebrew/cask && brew cask install chromedriver
 bundle exec cucumber
 ```
