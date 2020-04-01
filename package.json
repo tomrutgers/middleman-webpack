@@ -20,7 +20,7 @@
     "stylelint": "^13.1.0",
     "stylelint-config-recommended-scss": "^4.1.0",
     "stylelint-scss": "^3.13.0",
-    "webpack": "^4.41.5",
+    "webpack": "^4.42.1",
     "webpack-cli": "^3.3.10"
   },
   "scripts": {
