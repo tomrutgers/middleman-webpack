@@ -16,7 +16,7 @@ set :js_dir,     'assets/javascripts'
 # https://middlemanapp.com/advanced/configuration/#configuring-extensions
 
 activate :autoprefixer do |config|
-  config.browsers = 'last 2 versions'
+  config.browsers = '>0.25%, not ie 11, not op_mini all, not dead'
 end
 
 activate :external_pipeline,

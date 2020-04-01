@@ -5,6 +5,7 @@
   "repository": "https://github.com/tomrutgers/middleman-webpack",
   "author": "Tom Rutgers <trutgers01@hotmail.com>",
   "license": "MIT",
+  "browserslist": ">0.25%, not ie 11, not op_mini all, not dead",
   "devDependencies": {
     "@babel/core": "^7.8.3",
     "@babel/preset-env": "^7.8.3",
