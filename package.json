@@ -22,7 +22,7 @@
     "stylelint-config-recommended-scss": "^4.1.0",
     "stylelint-scss": "^3.17.2",
     "webpack": "^4.41.5",
-    "webpack-cli": "^3.3.10"
+    "webpack-cli": "^3.3.12"
   },
   "scripts": {
     "start": "NODE_ENV=development ./node_modules/webpack/bin/webpack.js --watch -d --color",
