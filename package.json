@@ -20,7 +20,7 @@
     "style-loader": "^2.0.0",
     "stylelint": "^13.8.0",
     "stylelint-config-recommended-scss": "^4.1.0",
-    "stylelint-scss": "^3.18.0",
+    "stylelint-scss": "^3.19.0",
     "webpack": "^4.44.2",
     "webpack-cli": "^3.3.12"
   },
