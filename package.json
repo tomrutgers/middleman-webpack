@@ -29,7 +29,7 @@
     "build": "NODE_ENV=production ./node_modules/webpack/bin/webpack.js --bail -p"
   },
   "dependencies": {
-    "core-js": "^3.9.1",
+    "core-js": "^3.13.1",
     "terser-webpack-plugin": "^4.2.3"
   }
 }
