@@ -7,7 +7,7 @@
   "license": "MIT",
   "browserslist": ">0.25%, not ie 11, not op_mini all, not dead",
   "devDependencies": {
-    "@babel/core": "^7.13.10",
+    "@babel/core": "^7.14.3",
     "@babel/preset-env": "^7.13.10",
     "babel-loader": "^8.2.2",
     "css-loader": "^5.1.1",
