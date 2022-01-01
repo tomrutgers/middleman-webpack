@@ -8,7 +8,7 @@
   "browserslist": ">0.25%, not ie 11, not op_mini all, not dead",
   "devDependencies": {
     "@babel/core": "^7.15.5",
-    "@babel/preset-env": "^7.15.6",
+    "@babel/preset-env": "^7.16.7",
     "babel-loader": "^8.2.2",
     "css-loader": "^5.2.7",
     "eslint": "^7.32.0",
